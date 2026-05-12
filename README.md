@@ -19,11 +19,11 @@ A simple Flutter weather application integrated with **Firebase Authentication**
 - HTTP Package
 
 ## Login Page
-![alt text](assets/icon/login.jpeg)
+<img src="assets/icon/login.jpeg" width="250">
 
 ## Homepage
-![alt text](assets/icon/homepage.jpeg)
+<img src="assets/icon/homepage.jpeg" width="250">
 
 ## Result
-![alt text](assets/icon/malang.jpeg)
-![alt text](assets/icon/jakarta.jpeg)
+<img src="assets/icon/malang.jpeg" width="250">
+<img src="assets/icon/jakarta.jpeg" width="250">
