@@ -17,3 +17,13 @@ A simple Flutter weather application integrated with **Firebase Authentication**
 - Firebase Authentication
 - OpenWeather API
 - HTTP Package
+
+## Login Page
+![alt text](assets/icon/login.jpeg)
+
+## Homepage
+![alt text](assets/icon/homepage.jpeg)
+
+## Result
+![alt text](assets/icon/malang.jpeg)
+![alt text](assets/icon/jakarta.jpeg)

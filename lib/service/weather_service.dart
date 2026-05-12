@@ -20,6 +20,7 @@ class WeatherService {
         'temp': data['main']['temp'],
         'weather': data['weather'][0]['main'],
         'description': data['weather'][0]['description'],
+        'feelsLike': data['main']['feels_like'],
       };
     } else {
       throw Exception('Kota tidak ditemukan');
